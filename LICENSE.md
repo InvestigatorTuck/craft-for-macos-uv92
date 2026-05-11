@@ -1,4 +1,4 @@
-
+Craft for macOS new Automation: custom shortcuts & markdown support offers the most advanced Craft for macOS automation, with custom shortcuts and markdown support. Ideal for
 
 
 
